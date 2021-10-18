@@ -1,0 +1,22 @@
+
+#include <stdio.h>
+int main()
+{
+    int a = 2, c;
+
+    c = a;      // c is 2
+    printf("c = %d\n", c);
+    c += a;     // c is 4
+    printf("c = %d\n", c);
+    c -= a;     // c is 2
+    printf("c = %d\n", c);
+    c *= a;     // c is 4
+    printf("c = %d\n", c);
+    c /= a;     // c is 2
+    printf("c = %d\n", c);
+    c %= a;     // c = 0
+    printf("c = %d\n", c);
+
+    return 0;
+}
+
