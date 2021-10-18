@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+    printf("Output = %d\n",~70);
+    printf("Output = %d\n",~-24);
+    return 0;
+}
+
+
