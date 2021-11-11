@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main()
+{
+int x=30,y=50;
+
+ if(x==30)
+ {
+ if(y==50)
+ {
+ printf("value of x is 30\nvalue of y is 50.");
+ }
+ }
+}
