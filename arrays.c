@@ -1,7 +1,7 @@
 #include <stdio.h>
  int main() 
  {
- int x[5]={9,12,76,8,3};
+ int x[5]={1,2,3,4,5};
  int i=5;
  for (int i = 0; i < 5; i++)
  {
